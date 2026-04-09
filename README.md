@@ -42,6 +42,6 @@ Natural companion artifacts in this lane include:
 - *White paper: Constitutional Physiology*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19477581
 
 Full printable PDF available via DOI link after publication.
